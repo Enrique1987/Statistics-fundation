@@ -10,4 +10,4 @@ In this repository include all my personal notes taken during the LinkedIn Learn
 
 ## Statistics Slides
 
-- Statistics foundation 1[[Jupyter Notebook ](Statistics fundation 1.ipynb)]
+- Statistics foundation 1[Jupyter Notebook ]( Statistics_undation_1.ipynb )
