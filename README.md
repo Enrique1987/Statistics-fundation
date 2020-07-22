@@ -5,4 +5,5 @@
 ===========
 
 In this repository include all my personal notes taken during the LinkedIn Learning course LinkedIn Learning **Statistics Foundations**. 
-	* To carry out my notes I have used : jupyter notebook in python3
+
+* To carry out my notes I have used : jupyter notebook in python3
