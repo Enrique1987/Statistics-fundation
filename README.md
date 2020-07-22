@@ -7,3 +7,7 @@
 In this repository include all my personal notes taken during the LinkedIn Learning course LinkedIn Learning **Statistics Foundations**. 
 
 * To carry out my notes I have used : jupyter notebook in python3
+
+## Statistics Slides
+
+- Statistics foundation 1[[Jupyter Notebook ](Statistics fundation 1.ipynb)]
